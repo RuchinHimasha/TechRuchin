@@ -38,13 +38,13 @@ $ docker run --rm -it RuchinHimasha/TechRuchin
 
 ### Dependencies
 
-**`ruchin`** requires following programs to run properly - 
+**`TechRuchin`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `ruchin` for the first time.
+> All the dependencies will be installed automatically when you run `TechRuchin` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
