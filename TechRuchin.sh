@@ -2,7 +2,7 @@
 
 ##   TechRuchin 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.1
+##   Version 	: 	1.1
 ##   Github 	: 	https://github.com/RuchinHimasha
 
 ##   THANKS TO :
