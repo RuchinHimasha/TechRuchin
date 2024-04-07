@@ -1,14 +1,6 @@
-FROM debian:10
+FROM alpine:latest
 LABEL MAINTAINER="https://github.com/RuchinHimasha/TechRuchin"
-
-WORKDIR ruchin/
-ADD . /ruchin
-
-RUN apt-get update
-RUN apt-get install -y curl
-RUN apt-get install --no-install-recommends -y php
-RUN apt-get install -y unzip
-RUN apt-get clean
-RUN apt-get install -y wget
-
-CMD ["./ruchin.sh"]
+WORKDIR /TechRuchin/
+ADD . /TechRuchin
+RUN apk add --no-cache bash ncurses curl unzip wget php 
+CMD "./TechRuchin.sh"
