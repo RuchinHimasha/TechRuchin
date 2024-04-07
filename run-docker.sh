@@ -9,7 +9,7 @@ if [[ ! -d "$BASE_DIR/auth" ]]; then
 fi
 
 CONTAINER="TechRuchin"
-IMAGE="htrtech/TechRuchin:latest"
+IMAGE="RuchinHimasha/TechRuchin:latest"
 IMG_MIRROR="ghcr.io/RuchinHimasha/TechRuchin:latest"
 MOUNT_LOCATION=${BASE_DIR}/auth
 check_container=$(docker ps --all --format "{{.Names}}")
